@@ -24,6 +24,10 @@ const links = [
     {
         name: 'xayo.pl',
         url: 'https://xayo.pl/%name%'
+    },
+    {
+        name: '7TV Profile',
+        url: 'https://7tv.app/user/%name%'
     }
 ];
 
