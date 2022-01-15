@@ -28,6 +28,10 @@ const links = [
     {
         name: '7TV Profile',
         url: 'https://7tv.app/user/%name%'
+    },
+    {
+        name: 'Following list',
+        url: 'https://twitchfollowing.com/?%name%'
     }
 ];
 
